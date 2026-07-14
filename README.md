@@ -60,14 +60,13 @@ Recently, I completed an academic exchange semester at **Hankuk University of Fo
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=igormarcelmoreira&show_icons=true&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=igormarcelmoreira&layout=compact&hide_border=true" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=igormarcelmoreira&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=igormarcelmoreira&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor%20Marcel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igormarcelmoreira)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor%20Marcel-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/igormarcelmoreira)
-
-📧 igor2mxavier@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-igor2mxavier@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor2mxavier@gmail.com)
