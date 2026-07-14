@@ -60,8 +60,8 @@ Recently, I completed an academic exchange semester at **Hankuk University of Fo
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=igormarcelmoreira&show_icons=true&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormarcelmoreira&layout=compact&hide_border=true" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=igormarcelmoreira&show_icons=true&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=igormarcelmoreira&layout=compact&hide_border=true" />
 </p>
 
 ---
