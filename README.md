@@ -70,3 +70,5 @@ Recently, I completed an academic exchange semester at **Hankuk University of Fo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor%20Marcel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igormarcelmoreira)
 
 [![Gmail](https://img.shields.io/badge/Gmail-igor2mxavier@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor2mxavier@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-igormarcel.is--a.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://igormarcel.is-a.dev)
